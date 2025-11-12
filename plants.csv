@@ -1,0 +1,97 @@
+id,common_name,type,cycle,watering,sunlight,hardiness_min,hardiness_max,soil,growth_rate,maintenance,care_level,drought_tolerant,salt_tolerant,tropical,indoor,poisonous_to_humans,poisonous_to_pets
+425,flowering-maple,Broadleaf evergreen,Perennial,Frequent,full sun | part shade,9,10,,Low,Low,Medium,true,false,true,true,false,false
+426,flowering-maple,Broadleaf evergreen,Perennial,Average,full sun | part shade,9,10,,Low,Low,Moderate,true,false,false,true,false,false
+427,flowering-maple,Broadleaf evergreen,Perennial,Average,full sun | part shade,9,10,,Low,Low,Moderate,true,false,true,true,false,false
+428,flowering-maple,Broadleaf evergreen,Perennial,Average,full sun,9,12,,Low,Moderate,Medium,true,true,true,true,false,false
+434,Jacob's coat,Broadleaf evergreen,Perennial,Frequent,full sun | part shade,10,11,,Low,Low,Medium,false,false,false,true,false,false
+502,hot water plant,Herbs,Herbaceous Perennial,Average,part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+540,desert rose,Broadleaf evergreen,Perennial,Minimum,full sun,11,12,,Low,Low,,true,true,true,true,false,false
+543,maidenhair fern,Fern,Perennial,Average,part shade | part sun/part shade,5,8,Clay |  Sand,,Low,Medium,false,false,false,true,false,false
+546,delta maidenhair fern,Fern,Perennial,Average,part shade,10,11,,Low,High,Medium,true,false,false,true,false,false
+549,urn plant,Epiphyte,Perennial,Average,part sun/part shade,10,11,Well-drained,Low,Moderate,Moderate,true,true,true,true,false,false
+551,stalked aeonium,Shrub,Herbaceous Perennial,Average,full sun | part shade,10,11,,Low,Moderate,Medium,true,true,false,true,false,false
+552,lipstick plant,Vine,Perennial,Average,part shade | full sun,10,11,,Low,Low,,true,false,true,true,false,false
+625,Philippine evergreen,Shrub,Herbaceous Perennial,Average,part shade | full shade,10,12,,Low,Low,Medium,true,true,true,true,false,false
+626,Chinese evegreen,Shrub,Herbaceous Perennial,Average,part shade | full shade,10,11,,Low,Low,,true,true,false,true,false,false
+627,Chinese evergreen,Shrub,Herbaceous Perennial,Average,part sun/part shade | part shade,10,11,,Low,Low,Medium,true,false,true,true,false,false
+628,Chinese evergreen,Shrub,Herbaceous Perennial,Average,part shade | full shade,10,11,,Low,Low,,true,false,true,true,false,false
+667,onion,Bulb,Perennial,Average,full sun,5,10,,High,Moderate,Medium,false,true,false,true,false,false
+710,elephant's ear,Bulb,Perennial,Average,part shade | part sun/part shade,10,12,,High,Moderate,Medium,true,false,true,true,true,true
+711,Amazonian elephant's ear,Bulb,Perennial,Frequent,part shade,10,12,,High,Moderate,High,false,false,true,true,true,true
+712,elephant's ear,Bulb,Perennial,Average,part shade,9,11,,High,Moderate,,false,false,true,true,true,true
+713,elephant's ear,Bulb,Perennial,Average,full sun | part shade,10,11,,High,Low,High,true,true,true,true,true,true
+714,elephant's ear,Bulb,Perennial,Average,full sun | part shade,7,11,,Slow,Moderate,Medium,false,false,true,true,true,true
+715,giant elephant's ear,Bulb,Perennial,Average,part shade,9,11,,High,Moderate,,true,false,true,true,true,true
+716,elephant's ear,Bulb,Perennial,Average,full sun | part shade,9,11,,High,Moderate,High,false,false,true,true,true,true
+717,elephant's ear,Bulb,Perennial,Average,full sun | part shade,7,10,,Low,Moderate,,true,false,true,true,true,true
+718,elephant's ear,Bulb,Perennial,Average,part sun/part shade,9,11,,High,Moderate,,true,false,true,true,true,true
+721,aloe,,Herbaceous Perennial,Minimum,part shade | part sun/part shade,9,11,,Low,Low,Low,true,true,false,true,false,false
+727,aloe,Tree,Perennial,Minimum,full sun | part sun/part shade,9,11,,Low,Low,Low,true,true,false,true,false,false
+728,aloe,Herb,Herbaceous Perennial,Minimum,full sun,10,12,Well-drained,High,Low,,true,true,false,true,false,false
+747,Joseph's coat,Herb,Herbaceous Perennial,Frequent,full sun | part shade,10,11,,High,Low,Medium,false,true,false,true,false,false
+748,Joseph's coat,Herb,Herbaceous Perennial,Average,full sun | part shade,10,11,,Low,Low,Medium,true,true,false,true,false,false
+855,anthurium,Flower,Herbaceous Perennial,Average,part sun/part shade,11,12,,High,Moderate,Medium,false,false,false,true,false,false
+856,anthurium,,Herbaceous Perennial,Frequent,full sun | part shade,10,12,,Low,Moderate,Medium,false,false,false,true,false,false
+861,zebra plant,Broadleaf evergreen,Perennial,Average,part shade | full shade,11,12,Well-drained,Low,Moderate,Medium,true,false,false,true,false,false
+1001,trailing snapdragon,Creeper,Herbaceous Perennial,Average,full sun | part shade,6,9,,Low,Low,,true,false,false,true,false,false
+1023,Sprenger's asparagus fern,Fern,Herbaceous Perennial,Average,part shade,9,11,,Low,Low,Medium,true,false,false,true,false,false
+1024,asparagus fern,Fern,Herbaceous Perennial,Average,part shade,9,11,Acidic |  Alkaline,High,Low,Moderate,false,true,false,true,false,false
+1025,asparagus fern,Fern,Herbaceous Perennial,Minimum,part shade,9,11,,High,Low,Medium,false,false,false,true,false,false
+1031,asparagus fern,Vine,Perennial,Frequent,part shade,9,12,Acidic |  Alkaline,Low,Low,Medium,true,false,false,true,false,false
+1036,cast-iron plant,Shrub,Herbaceous Perennial,Average,part shade | full shade,8,10,,Low,Low,Low,true,false,false,true,false,false
+1038,bird's nest fern,Fern,Perennial,Average,full sun | part shade | full shade,10,11,,Low,,,false,false,true,true,false,false
+1130,Japanese painted fern,Fern,Perennial,Average,deep shade | filtered shade | part sun/part shade,3,8,Humus rich |  Well-drained,High,Low,Medium,false,false,false,true,false,false
+1133,Japanese painted fern,Fern,Perennial,Average,deep shade | filtered shade | part sun/part shade,3,8,Humus rich |  Well-drained,High,Low,Medium,false,false,false,true,false,false
+1147,spotted laurel,Broadleaf evergreen,Perennial,Frequent,full shade | part shade,6,9,,Low,Low,Moderate,true,false,false,true,false,false
+1149,spotted laurel,Broadleaf evergreen,Perennial,Average,part sun/part shade | full sun,6,9,,Low,Low,Medium,true,false,false,true,false,false
+1150,spotted laurel,Broadleaf evergreen,Perennial,Average,part shade,6,9,,Low,Low,Moderate,true,false,false,true,false,false
+1192,ponytail palm,Broadleaf evergreen,Perennial,Average,part sun/part shade,10,11,Rocky  |  gravelly  |  dry |  Well-drained,Low,Low,Medium,true,false,false,true,false,false
+1194,begonia,Begonia,Herbaceous Perennial,Frequent,full sun | part shade,10,11,,Low,Moderate,,false,false,false,true,false,false
+1195,begonia,Begonia,Herbaceous Perennial,Average,full sun | part shade,10,11,,High,Low,,false,true,false,true,false,false
+1196,begonia,Begonia,Herbaceous Perennial,Average,part shade | full sun,10,11,,High,Low,Medium,false,false,false,true,false,false
+1197,begonia,Begonia,Herbaceous Perennial,Average,full sun | part sun/part shade,8,11,,High,Moderate,Medium,false,false,false,true,false,false
+1198,begonia,Begonia,Herbaceous Perennial,Average,part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1199,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,High,Moderate,,false,false,false,true,false,false
+1200,begonia,Begonia,Herbaceous Perennial,Average,part shade | full sun,10,11,,High,Moderate,,false,false,false,true,false,false
+1201,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1202,begonia,Begonia,Herbaceous Perennial,Average,part shade | full shade,10,11,,High,Moderate,Medium,false,false,false,true,false,false
+1203,hybrid tuberous begonia,Herb,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,High,Medium,false,false,false,true,false,false
+1208,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,,false,false,false,true,false,false
+1209,begonia,Begonia,Herbaceous Perennial,Average,part sun/part shade | full sun,8,10,,High,Moderate,Medium,false,false,false,true,false,false
+1210,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,,false,false,false,true,false,false
+1211,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1212,iron cross begonia,Herb,Herbaceous Perennial,Average,part sun/part shade | filtered shade,11,12,Acidic |  Alkaline |  Well-drained,Low,Moderate,Medium,false,false,false,true,false,false
+1213,begonia,Begonia,Herbaceous Perennial,Average,part shade | full shade,10,11,,Low,Moderate,,false,false,false,true,false,false
+1214,rex begonia,Shrub,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,High,Medium,false,false,false,true,false,false
+1215,rex begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,High,false,false,false,true,false,false
+1216,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1217,begonia,Flower,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Low,Moderate,false,false,false,true,false,false
+1218,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1219,wax begonia,Flower,Herbaceous Perennial,Average,part shade | filtered shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1220,angelwing begonia,Begonia,Herbaceous Perennial,Frequent,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1221,begonia,Begonia,Herbaceous Perennial,Average,part sun/part shade | filtered shade,10,11,,High,Moderate,Moderate,false,false,false,true,false,false
+1222,angelwing begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1223,hybrid tuberous begonia,Begonia,Herbaceous Perennial,Minimum,part shade,10,11,,Low,Moderate,,false,false,false,true,false,false
+1224,hybrid tuberous begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,,false,false,false,true,false,false
+1225,begonia,Begonia,Herbaceous Perennial,Average,part shade | part sun/part shade,10,11,,Low,Moderate,Medium,false,false,false,true,false,false
+1226,hybrid tuberous begonia,Bulb,Perennial,Average,part sun/part shade | full sun,9,11,,Low,High,,false,false,false,true,false,false
+1272,jewel plant,Creeper,Herbaceous Perennial,Frequent,part shade | part sun/part shade,11,12,,Low,Moderate,Medium,false,true,false,true,false,false
+1416,boxwood,Broadleaf evergreen,Perennial,Average,filtered shade | full sun only if soil kept moist | part sun/part shade,6,9,Well-drained,High,Moderate,Medium,false,false,false,true,false,false
+1457,angel wings,Bulb,Perennial,Average,part shade | part sun/part shade,9,10,,Low,Moderate,Medium,false,false,false,true,false,false
+1468,orchid,Orchid,Perennial,Frequent,part sun/part shade | filtered shade,7,9,,Low,Moderate,Medium,false,true,false,true,false,false
+1469,rattlesnake plant,Herb,Herbaceous Perennial,Average,part shade | part sun/part shade,11,12,,Low,Moderate,Medium,false,false,true,true,false,false
+1470,peacock plant,Herb,Herbaceous Perennial,Average,part shade | part sun/part shade,11,12,,Moderate,Moderate,,false,false,true,true,false,false
+1471,zebra plant,Herb,Herbaceous Perennial,Average,part shade | part sun/part shade,11,12,,Low,Moderate,Medium,false,false,true,true,false,false
+1597,ornamental pepper,Fruit,Herbaceous Perennial,Average,full sun,9,11,,Low,Low,Medium,false,false,false,true,false,false
+1598,ornamental pepper,Fruit,Herbaceous Perennial,Frequent,full sun | part sun/part shade,,,,Low,Low,Medium,false,false,false,true,false,false
+1601,ornamental pepper,Fruit,Herbaceous Perennial,Average,full sun,9,11,,Low,Low,Medium,false,false,false,true,false,false
+1603,ornamental pepper,Fruit,Herbaceous Perennial,Average,full sun,11,12,,Low,Low,Medium,false,false,false,true,false,false
+1716,orchid,Orchid,Perennial,Average,part shade | part sun/part shade,10,12,,Low,Moderate,High,false,true,true,true,false,false
+1820,parlor palm,Palm or Cycad,Perennial,Average,part shade,10,12,,Low,Low,Moderate,true,false,true,true,false,false
+1821,chamaedorea,Palm or Cycad,Perennial,Frequent,part shade,8,11,,Low,Low,Medium,true,false,false,true,false,false
+1822,bamboo palm,Palm or Cycad,Perennial,Average,part shade,10,11,,Low,Low,Moderate,true,false,true,true,false,false
+1845,St. Bernard's lily,Herb,Herbaceous Perennial,Minimum,part shade | part sun/part shade,11,12,,Low,Low,Easy,true,false,false,true,false,false
+1846,spider plant,Shrub,Herbaceous Perennial,Average,part shade | filtered shade,9,11,,Low,Low,Easy,false,false,false,true,false,false
+1847,spider plant,Shrub,Herbaceous Perennial,Average,part shade | full shade,9,11,,Low,Low,Easy,false,false,false,true,false,false
+1848,spider plant,Shrub,Herbaceous Perennial,Average,part shade,11,12,,Low,Low,Medium,false,false,false,true,false,false
+1855,chrysanthemum,Chrysanthemum,Herbaceous Perennial,Average,full sun,4,9,,High,Low,Medium,false,true,false,true,false,false
