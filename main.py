@@ -54,18 +54,3 @@ def predict(req: PlantRequest):
 
     except Exception as e:
         return {"error": str(e)}
-```
-
----
-
-### Notice — removed `joblib` / model loading completely ✅
-
-The `.pkl` file was throwing `error: 13` (permission/corruption issue) and it wasn't being used anyway. This clean version works without it.
-
----
-
-After committing, Render will auto-redeploy. Watch for these lines in logs:
-```
-✅ Dataset loaded!
-Watering unique: ['Frequent' 'Minimum' ...]
-Uvicorn running on http://0.0.0.0:10000
