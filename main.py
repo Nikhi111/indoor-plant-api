@@ -10,7 +10,9 @@ print("Watering unique:", data['watering'].unique())
 print("Sunlight unique:", data['sunlight'].unique())
 
 app = FastAPI(title="Indoor Plant Recommendation API 🌿", version="1.0")
-
+@app.get("/health")
+def health():
+    return {"status": "OK"}
 class PlantRequest(BaseModel):
     temperature: float
     humidity: float
